@@ -1,7 +1,7 @@
 import PyPDF2
 
 # Список имен файлов, которые нужно объединить
-pdf_files = ["7721.pdf", "7722.pdf"]
+pdf_files = ["page1.pdf", "page 2.2.pdf"]
 
 # Создайте объект PdfMerger
 pdf_merger = PyPDF2.PdfMerger()
